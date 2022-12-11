@@ -1,0 +1,19 @@
+.podkart{
+    width: 290px;
+    font-size: 75%;
+}
+.row3{
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+    padding: 0 1%;
+    margin-left: 31%; 
+    width: 65%; 
+}
+.FR3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1 1 auto;
+    margin: 0 1%;
+}

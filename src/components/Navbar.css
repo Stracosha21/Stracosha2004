@@ -1,0 +1,23 @@
+body{
+    max-width: 1920px;
+    
+  }
+.header {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+  }
+.logo {
+    margin-left: 3.82%;
+    margin-top: 3%;
+  }
+.navbar {
+    width: 30%;
+    padding-right: 1%;
+    font-size: 80%;
+    color: #FFFFFF;
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-evenly;
+  }   
+  

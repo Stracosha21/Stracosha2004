@@ -1,0 +1,53 @@
+.body02 {
+    background-color: white;
+    font-family: "Roboto";
+}
+
+.JMP {
+    padding-left: 10%;
+    color: #E8244F;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 7% 0% 10% 0%;
+}
+
+.tabl01 {
+    margin-left: 4%;
+    height: 629.41px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.zaglavnoedoch {
+    font-weight: 400;
+    padding-left: 25%;
+    display: flex;
+    margin: 0% 0% 20% 0%;
+    font-size: 300%;
+}
+
+.sredinadoch {
+    display: flex;
+    margin: 0% 0% 40% 0%;
+    font-size: 100%;
+}
+.sredinadoch:first-child{
+    margin: 10% 0% 30% 0%;
+}
+.sredinadoch:nth-child(2){
+    margin: 36% 0% 34% 0%;
+}
+
+.strelki {
+    display: flex;
+    flex-direction: column;
+}
+
+.strelkidoch {
+    padding-right: 60px;
+    display: flex;
+    margin: 0% 0% 95% 0%; 
+}

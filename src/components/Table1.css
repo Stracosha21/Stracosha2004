@@ -1,0 +1,18 @@
+.row01 {
+    margin-left: 10%;
+    display: flex;
+    flex-direction: row;
+}
+.pravo {
+    margin-left: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.podkart{
+    width: 290px;
+    font-size: 75%;
+}
+.bolsh {
+    font-size: 590%;
+}

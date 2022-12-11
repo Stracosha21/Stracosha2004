@@ -1,0 +1,66 @@
+.n01{
+    padding-right: 2%;
+  }
+  .sp {
+    color: #999999;
+  }
+  
+  div#center {
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+  }
+  
+  .zag {
+    position: absolute;
+    top: 30%;
+    color: #FFFFFF;
+    width: 690px;
+  }
+  
+  .zag span {
+    font-size: 600%;
+  }
+  
+  .zag span:first-child {
+    margin-left: 0%;
+    font-size: 50%;
+    text-transform: none;
+    color: #999999;
+  }
+  
+  .zag span:nth-child(2) {
+    display: flex;
+  }
+  
+  .zag span:nth-child(3) {
+    margin-left: 10%;
+  }
+  
+  .nadniz {
+    display: flex;
+    justify-content: space-around;
+  
+  }
+  
+  .niz1 {
+    padding-right: 25%;
+    font-size: 120%;
+    margin-top: 1.5%;
+    color: #FFFFFF;
+  }
+  
+  .niz2 {
+    font-size: 120%;
+    margin-top: 1%;
+    display: flex;
+    justify-content: flex-start;
+    flex-flow: column wrap;
+    color: #FFFFFF;
+  }
+  
+  .sm {
+    padding-top: 5%;
+    color: #FFFFFF66;
+    font-size: 70%;
+  }
